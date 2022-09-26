@@ -124,9 +124,6 @@ cd ./src/java/xcrash/
 4. WeChat: alan_choi
 5. QQ group: 603635869. QR code:
 
-<p align="left"><img src="doc/qq_group.jpeg" alt="qq group" width="300px"></p>
-
-
 ## Contributing
 
 See [xCrash Contributing Guide](CONTRIBUTING.md).

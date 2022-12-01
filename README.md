@@ -120,16 +120,13 @@ cd ./src/java/xcrash/
 
 1. Check the [xcrash-sample](src/java/xcrash/xcrash_sample).
 2. Communicate on [GitHub issues](https://github.com/iqiyi/xCrash/issues).
-3. Email: <a href="mailto:caikelun@gmail.com">caikelun@gmail.com</a>
-4. WeChat: alan_choi
-5. QQ group: 603635869. QR code:
 
 ## Contributing
 
 See [xCrash Contributing Guide](CONTRIBUTING.md).
 
 
-## License
+## License iqiyi
 
 xCrash is MIT licensed, as found in the [LICENSE](LICENSE) file.
 
